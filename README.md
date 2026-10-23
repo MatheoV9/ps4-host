@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/UI-terminal-151515?style=for-the-badge&color=a294ff" alt="Terminal-style interface">
 </p>
 
-![PlayStation Pulse Host Selector](https://raw.githubusercontent.com/sudoBlackArch/sudoblackarch.github.io/refs/heads/main/assets/showcase.webp)
+![PlayStation Pulse Host Selector](./assets/20261023_161943_00767728.jpg)
 
 ```text
 $ ./launch --pspulse
