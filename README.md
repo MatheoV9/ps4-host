@@ -238,22 +238,6 @@ Wait until the host reports that the exploit/GoldHEN flow is ready. Confirm that
 - The 11.00–12.02 / 12.50–13.00 branch is a research route with no guarantee of stability; 12.03–12.49 have no working bug upstream.
 - No host can guarantee identical results on every console, browser build, cache state, or network configuration.
 
-## Credits and attribution
-
-```text
-$ whoami
-
-Author ............. BlackArch
-Community .......... PlayStation Pulse (Telegram)
-Game servers ....... NodePlay
-```
-
-**Author:** [BlackArch](https://t.me/sudoBlackArch)<br>
-**Community:** [PlayStation Pulse](https://t.me/PlayStation_Pulse)<br>
-**Premium Game Servers:** [NodePlay](https://nodeplay.net/)
-
-> For any use of the materials or files, the links to the author [BlackArch](https://t.me/sudoBlackArch) and the [PlayStation Pulse](https://t.me/PlayStation_Pulse) Telegram group must remain on all pages.
-
 ---
 
 ```text
